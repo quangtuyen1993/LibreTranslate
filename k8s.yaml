@@ -6,7 +6,7 @@ metadata:
   name: libretranslate-config
 data:
 # list loaded languages or leave empty to load all
-  langs: "es,de,it,en,fr,cs,da,nl,hu,pl,pt,sk,ru,tr,uk,fi,eo"
+  langs: "es,de,it,en,fr,cs,da,nl,hu,pl,pt,sk,ru,tr,uk,fi,eo,vi"
   ltapikey: "yoursecretapikey"
 ---
 apiVersion: apps/v1

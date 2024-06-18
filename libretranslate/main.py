@@ -159,7 +159,7 @@ def get_args():
         type=operator.methodcaller("split", ","),
         default=DEFARGS['LOAD_ONLY'],
         metavar="<comma-separated language codes>",
-        help="Set available languages (ar,de,en,es,fr,ga,hi,it,ja,ko,pt,ru,zh)",
+        help="Set available languages (ar,de,en,es,fr,ga,hi,it,ja,ko,pt,ru,zh,vi)",
     )
     parser.add_argument(
         "--alternatives-limit",
